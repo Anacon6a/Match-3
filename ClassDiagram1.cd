@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Match_3.Block">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQBAgAAEwgIBhaIAgZAAAkACEAhgAAAIBUAAAAgoAA=</HashCode>
+      <FileName>Block.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Match_3.Block_bonus">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAGAAAAAAA=</HashCode>
+      <FileName>Block_bonus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Match_3.Block_element">
+    <Position X="13" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAIAAAAAAAAAAAAAGAAAAAAA=</HashCode>
+      <FileName>Block_element.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Match_3.Field">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAgAAAAAAIAgICgCBakgAAAEgwAAABgQSCAAAUBAI=</HashCode>
+      <FileName>Field.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Match_3.Program">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAIAAAAAAQAAIAAAAAAAAAAIAQACFAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Match_3.Win_menu">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIlAIgQJMIBYkZgAAAIABgRAQAGgESAEQEAACAAIAI=</HashCode>
+      <FileName>Win_menu.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Match_3.Win_start">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABqRgIgClCgNIiaBABsqDEhgEcAFSAKCUUPEECgBoIQ=</HashCode>
+      <FileName>Win_start.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Match_3.HighScoreTable">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAABAAAAggAAAgAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HighScoreTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Match_3.Events">
+    <Position X="13" Y="6" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Match_3.Events.AddRecord" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Event.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAACAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,26 @@
+C:\Users\User\Desktop\универ\Match 3\bin\Debug\Match 3.exe.config
+C:\Users\User\Desktop\универ\Match 3\bin\Debug\Match 3.exe
+C:\Users\User\Desktop\универ\Match 3\bin\Debug\Match 3.pdb
+C:\Users\User\Desktop\универ\Match 3\obj\Debug\Match 3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\универ\Match 3\obj\Debug\Match 3.csproj.CopyComplete
+C:\Users\User\Desktop\универ\Match 3\obj\Debug\Match 3.exe
+C:\Users\User\Desktop\универ\Match 3\obj\Debug\Match 3.pdb
+C:\Users\User\Desktop\универ\Match 3\bin\Debug\sfml-audio.dll
+C:\Users\User\Desktop\универ\Match 3\bin\Debug\sfml-graphics.dll
+C:\Users\User\Desktop\универ\Match 3\bin\Debug\sfml-system.dll
+C:\Users\User\Desktop\универ\Match 3\bin\Debug\sfml-window.dll
+C:\Users\User\Desktop\University\Match 3\bin\Debug\Match 3.exe.config
+C:\Users\User\Desktop\University\Match 3\bin\Debug\Match 3.exe
+C:\Users\User\Desktop\University\Match 3\bin\Debug\Match 3.pdb
+C:\Users\User\Desktop\University\Match 3\bin\Debug\sfml-audio.dll
+C:\Users\User\Desktop\University\Match 3\bin\Debug\sfml-graphics.dll
+C:\Users\User\Desktop\University\Match 3\bin\Debug\sfml-system.dll
+C:\Users\User\Desktop\University\Match 3\bin\Debug\sfml-window.dll
+C:\Users\User\Desktop\University\Match 3\obj\Debug\Match 3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\University\Match 3\obj\Debug\Match 3.csproj.CopyComplete
+C:\Users\User\Desktop\University\Match 3\obj\Debug\Match 3.exe
+C:\Users\User\Desktop\University\Match 3\obj\Debug\Match 3.pdb
+C:\Users\User\Desktop\University\Match 3\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Desktop\University\Match 3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\University\Match 3\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\User\Desktop\University\Match 3\bin\Debug\Newtonsoft.Json.xml
